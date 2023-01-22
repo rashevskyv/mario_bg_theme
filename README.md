@@ -11,3 +11,7 @@ Two versions of the theme are available:
 
 ## Screenshots
 
+![homescreen](/screenshots/homescreen.jpg)
+![allapps](/screenshots/allapps.jpg)
+![settings](/screenshots/settings.jpg)
+![user](/screenshots/user.jpg)
