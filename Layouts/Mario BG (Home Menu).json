@@ -1,0 +1,432 @@
+{
+    "PatchName": "Mario BG (Home Menu)",
+    "AuthorName": "xHR",
+    "TargetName": "ResidentMenu.szs",
+    "ID": "Generated_c74173a9-6a90-49c9-97a0-26db5167243a",
+    "HideOnlineBtn": false,
+    "Files": [
+        {
+            "FileName": "blyt/RdtBtnCtrl.bflyt",
+            "Patches": [
+                {
+                    "PaneName": "L_Balloon",
+                    "Visible": false
+                }
+            ]
+        },
+        {
+            "FileName": "blyt/RdtBg.bflyt",
+            "Patches": [
+                {
+                    "PaneName": "L_BgNml"
+                }
+            ]
+        },
+        {
+            "FileName": "blyt/RdtBtnFullLauncher.bflyt",
+            "Patches": [
+                {
+                    "PaneName": "L_Balloon",
+                    "Visible": false
+                }
+            ]
+        },
+        {
+            "FileName": "blyt/RdtBtnSet.bflyt",
+            "Patches": [
+                {
+                    "PaneName": "L_Balloon",
+                    "Visible": false
+                }
+            ]
+        },
+        {
+            "FileName": "blyt/RdtBtnPvr.bflyt",
+            "Patches": [
+                {
+                    "PaneName": "L_Balloon",
+                    "Visible": false
+                }
+            ]
+        },
+        {
+            "FileName": "blyt/RdtBtnMyPage.bflyt",
+            "Patches": [
+                {
+                    "PaneName": "N_Num",
+                    "Position": {
+                        "X": -32,
+                        "Y": 38
+                    }
+                },
+                {
+                    "PaneName": "L_Balloon",
+                    "Visible": false
+                }
+            ]
+        },
+        {
+            "FileName": "blyt/RdtBtnIconGame.bflyt",
+            "Patches": [
+                {
+                    "PaneName": "RootPane",
+                    "Scale": {
+                        "X": 0.7,
+                        "Y": 0.7
+                    }
+                },
+                {
+                    "PaneName": "L_Balloon",
+                    "Visible": false
+                }
+            ]
+        },
+        {
+            "FileName": "blyt/RdtBtnLR.bflyt",
+            "Patches": [
+                {
+                    "PaneName": "L_Balloon",
+                    "Visible": false
+                }
+            ]
+        },
+        {
+            "FileName": "blyt/RdtBase.bflyt",
+            "Patches": [
+                {
+                    "PaneName": "N_ScrollArea",
+                    "Position": {
+                        "Y": 58
+                    },
+                    "Size": {
+                        "X": 1210,
+                        "Y": 365
+                    },
+                    "Visible": false
+                },
+                {
+                    "PaneName": "N_ScrollWindow",
+                    "Position": {
+                        "Y": 58
+                    },
+                    "Size": {
+                        "X": 740,
+                        "Y": 365
+                    },
+                    "Visible": false
+                },
+                {
+                    "PaneName": "N_GameRoot",
+                    "Position": {
+                        "X": 2,
+                        "Y": 53
+                    },
+                    "Scale": {
+                        "X": 1.05,
+                        "Y": 1.05
+                    }
+                },
+                {
+                    "PaneName": "N_System",
+                    "Position": {
+                        "X": -60,
+                        "Y": -235
+                    },
+                    "Scale": {
+                        "X": 0.799999952,
+                        "Y": 0.799999952
+                    }
+                },
+                {
+                    "PaneName": "L_ChildLock",
+                    "Position": {
+                        "Y": 311
+                    }
+                },
+                {
+                    "PaneName": "N_Balloon",
+                    "Size": {
+                        "X": 1280,
+                        "Y": 720
+                    }
+                },
+                {
+                    "PaneName": "N_MyPage",
+                    "Position": {
+                        "X": -338,
+                        "Y": 314
+                    }
+                },
+                {
+                    "PaneName": "L_Hud",
+                    "Position": {
+                        "X": 615,
+                        "Y": 315
+                    }
+                },
+                {
+                    "PaneName": "N_Game",
+                    "Scale": {
+                        "X": 1.03,
+                        "Y": 1.03
+                    }
+                },
+                {
+                    "PaneName": "L_BtnLR",
+                    "Position": {
+                        "X": -295,
+                        "Y": -300
+                    },
+                    "Visible": true
+                },
+                {
+                    "PaneName": "L_BtnNoti",
+                    "Position": {
+                        "X": -170,
+                        "Y": -300
+                    }
+                },
+                {
+                    "PaneName": "L_BtnShop",
+                    "Position": {
+                        "X": -45,
+                        "Y": -300
+                    }
+                },
+                {
+                    "PaneName": "L_BtnPvr",
+                    "Position": {
+                        "X": -120
+                    }
+                },
+                {
+                    "PaneName": "L_BtnCtrl",
+                    "Position": {
+                        "X": 5
+                    }
+                },
+                {
+                    "PaneName": "L_BtnSet",
+                    "Position": {
+                        "X": 130
+                    }
+                },
+                {
+                    "PaneName": "L_BtnPow",
+                    "Position": {
+                        "X": 255
+                    }
+                },
+                {
+                    "PaneName": "L_BtnAccount_00",
+                    "Position": {
+                        "X": -232
+                    }
+                },
+                {
+                    "PaneName": "L_BtnAccount_01",
+                    "Position": {
+                        "X": -160
+                    }
+                },
+                {
+                    "PaneName": "L_BtnAccount_02",
+                    "Position": {
+                        "X": -87
+                    }
+                },
+                {
+                    "PaneName": "L_BtnAccount_03",
+                    "Position": {
+                        "X": -15
+                    }
+                },
+                {
+                    "PaneName": "L_BtnAccount_04",
+                    "Position": {
+                        "X": 58
+                    }
+                },
+                {
+                    "PaneName": "L_BtnAccount_05",
+                    "Position": {
+                        "X": 130
+                    }
+                },
+                {
+                    "PaneName": "L_BtnAccount_06",
+                    "Position": {
+                        "X": 203
+                    }
+                },
+                {
+                    "PaneName": "L_BtnAccount_07",
+                    "Position": {
+                        "X": 275
+                    }
+                },
+                {
+                    "PaneName": "N_Icon_00",
+                    "Position": {
+                        "X": -465,
+                        "Y": 80,
+                        "Z": 130
+                    }
+                },
+                {
+                    "PaneName": "N_Icon_01",
+                    "Position": {
+                        "X": -280,
+                        "Y": 80,
+                        "Z": 130
+                    }
+                },
+                {
+                    "PaneName": "N_Icon_02",
+                    "Position": {
+                        "X": -95,
+                        "Y": 80,
+                        "Z": 130
+                    }
+                },
+                {
+                    "PaneName": "N_Icon_03",
+                    "Position": {
+                        "X": 90,
+                        "Y": 80,
+                        "Z": 130
+                    }
+                },
+                {
+                    "PaneName": "N_Icon_04",
+                    "Position": {
+                        "X": 275,
+                        "Y": 80,
+                        "Z": 130
+                    }
+                },
+                {
+                    "PaneName": "N_Icon_05",
+                    "Position": {
+                        "X": 460,
+                        "Y": 80,
+                        "Z": 130
+                    }
+                },
+                {
+                    "PaneName": "N_Icon_06",
+                    "Position": {
+                        "X": -465,
+                        "Y": -105,
+                        "Z": -55
+                    }
+                },
+                {
+                    "PaneName": "N_Icon_07",
+                    "Position": {
+                        "X": -280,
+                        "Y": -105,
+                        "Z": -55
+                    }
+                },
+                {
+                    "PaneName": "N_Icon_08",
+                    "Position": {
+                        "X": -95,
+                        "Y": -105,
+                        "Z": -55
+                    }
+                },
+                {
+                    "PaneName": "N_Icon_09",
+                    "Position": {
+                        "X": 90,
+                        "Y": -105,
+                        "Z": -55
+                    }
+                },
+                {
+                    "PaneName": "N_Icon_10",
+                    "Position": {
+                        "X": 275,
+                        "Y": -105,
+                        "Z": -55
+                    }
+                },
+                {
+                    "PaneName": "N_Icon_11",
+                    "Position": {
+                        "X": 460,
+                        "Y": -505,
+                        "Z": -55
+                    },
+                    "Visible": false
+                },
+                {
+                    "PaneName": "N_Icon_12",
+                    "Position": {
+                        "X": 460,
+                        "Y": -105,
+                        "Z": -55
+                    },
+                    "Scale": {
+                        "X": 0.399999976,
+                        "Y": 0.399999976
+                    }
+                },
+                {
+                    "PaneName": "L_BtnFlc",
+                    "Position": {},
+                    "Scale": {
+                        "X": 2,
+                        "Y": 2
+                    }
+                }
+            ]
+        },
+        {
+            "FileName": "blyt/GTNumM.bflyt",
+            "Patches": [
+                {
+                    "PaneName": "P_GTNum_00",
+                    "Position": {
+                        "Y": -9
+                    }
+                }
+            ]
+        },
+        {
+            "FileName": "blyt/RdtBtnNtf.bflyt",
+            "Patches": [
+                {
+                    "PaneName": "L_Balloon",
+                    "Visible": false
+                }
+            ]
+        },
+        {
+            "FileName": "blyt/RdtBtnShop.bflyt",
+            "Patches": [
+                {
+                    "PaneName": "L_Balloon",
+                    "Visible": false
+                }
+            ]
+        },
+        {
+            "FileName": "blyt/RdtBtnPow.bflyt",
+            "Patches": [
+                {
+                    "PaneName": "L_Balloon",
+                    "Visible": false
+                }
+            ]
+        }
+    ],
+    "Anims": [
+        {
+            "FileName": "anim/RdtBase_SystemAppletPos.bflan",
+            "AnimJson": "{\"LittleEndian\":true,\"Version\":150994944,\"pat1\":{\"AnimationOrder\":6,\"Name\":\"SystemAppletPos\",\"ChildBinding\":190,\"Groups\":[\"G_System\"],\"Unk_StartOfFile\":0,\"Unk_EndOfFile\":0,\"Unk_EndOfHeader\":\"AL8AAAAAAA==\"},\"pai1\":{\"FrameSize\":1,\"Flags\":0,\"Textures\":[],\"Entries\":[]}}"
+        }
+    ]
+}

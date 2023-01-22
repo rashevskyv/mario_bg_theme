@@ -1,0 +1,17 @@
+{
+    "PatchName": "Remove that line!",
+    "AuthorName": "Migush",
+    "TargetName": "common.szs",
+    "ID": "Themezer:10-common",
+    "Files": [
+        {
+            "FileName": "blyt/LineFooter.bflyt",
+            "Patches": [
+                {
+                    "PaneName": "P_Line",
+                    "Visible": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,171 @@
+{
+    "PatchName": "Mario BG (Settings)",
+    "AuthorName": "xHR",
+    "TargetName": "Set.szs",
+    "ID": "Generated_9c1672ae-e9a0-4ac7-bfec-d8a39e4a39a3",
+    "Files": [
+        {
+            "FileName": "blyt/SetBaseNav.bflyt",
+            "Patches": [
+                {
+                    "PaneName": "N_Sup",
+                    "Visible": false
+                },
+                {
+                    "PaneName": "N_FlightMode",
+                    "Position": {
+                        "Y": -190
+                    }
+                },
+                {
+                    "PaneName": "N_Display",
+                    "Position": {
+                        "Y": -600
+                    }
+                },
+                {
+                    "PaneName": "N_Sound",
+                    "Position": {
+                        "Y": -290
+                    }
+                },
+                {
+                    "PaneName": "N_Lock",
+                    "Position": {
+                        "Y": -670
+                    },
+                    "Size": {
+                        "X": 10,
+                        "Y": 70
+                    }
+                },
+                {
+                    "PaneName": "N_Child",
+                    "Position": {
+                        "Y": -1190
+                    },
+                    "Visible": false
+                },
+                {
+                    "PaneName": "N_Internet",
+                    "Position": {
+                        "Y": -500
+                    }
+                },
+                {
+                    "PaneName": "N_DataMng",
+                    "Position": {
+                        "Y": -360
+                    },
+                    "Size": {
+                        "X": 10,
+                        "Y": 100
+                    }
+                },
+                {
+                    "PaneName": "N_Player",
+                    "Position": {
+                        "Y": -910
+                    }
+                },
+                {
+                    "PaneName": "N_Mii",
+                    "Position": {
+                        "Y": -1190
+                    }
+                },
+                {
+                    "PaneName": "N_Amiibo",
+                    "Position": {
+                        "Y": -1050
+                    },
+                    "Size": {
+                        "X": 10,
+                        "Y": 100
+                    }
+                },
+                {
+                    "PaneName": "N_Line_02",
+                    "Position": {
+                        "Y": -1350
+                    },
+                    "Visible": false
+                },
+                {
+                    "PaneName": "N_Theme",
+                    "Position": {
+                        "Y": -1120
+                    }
+                },
+                {
+                    "PaneName": "N_Ntf",
+                    "Position": {
+                        "Y": -980
+                    }
+                },
+                {
+                    "PaneName": "N_Sleep",
+                    "Position": {
+                        "Y": -740
+                    },
+                    "Size": {
+                        "X": 10,
+                        "Y": 70
+                    }
+                },
+                {
+                    "PaneName": "N_Controller",
+                    "Position": {
+                        "Y": -430
+                    }
+                },
+                {
+                    "PaneName": "N_Tv",
+                    "Position": {
+                        "Y": -810
+                    }
+                },
+                {
+                    "PaneName": "N_Hardware",
+                    "Position": {
+                        "Y": -120
+                    }
+                },
+                {
+                    "PaneName": "N_Btm",
+                    "Position": {
+                        "Y": -1260
+                    }
+                },
+                {
+                    "PaneName": "L_Line_00",
+                    "Visible": false
+                },
+                {
+                    "PaneName": "L_Line_01",
+                    "Visible": false
+                },
+                {
+                    "PaneName": "L_Line_02",
+                    "Position": {
+                        "Y": -85
+                    },
+                    "Visible": false
+                },
+                {
+                    "PaneName": "L_Line_03",
+                    "Visible": false
+                }
+            ]
+        },
+        {
+            "FileName": "blyt/LineHeader_Root.bflyt",
+            "Patches": [
+                {
+                    "PaneName": "P_Line",
+                    "Visible": false
+                }
+            ]
+        }
+    ]
+}

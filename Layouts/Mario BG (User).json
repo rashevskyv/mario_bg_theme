@@ -1,0 +1,17 @@
+{
+    "PatchName": "Mario BG (User)",
+    "AuthorName": "xHR",
+    "TargetName": "Set.szs",
+    "ID": "Generated_615740b0-0daf-4259-be67-bc0119bf5ba3",
+    "Files": [
+        {
+            "FileName": "blyt/LineHeader_Root.bflyt",
+            "Patches": [
+                {
+                    "PaneName": "P_Line",
+                    "Visible": false
+                }
+            ]
+        }
+    ]
+}
